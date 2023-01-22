@@ -1,1 +1,3 @@
 Curso de git e github o que você precisa saber do básico até o estágio.
+Estamos agora na terceira aula de git e github.
+
